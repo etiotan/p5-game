@@ -1,6 +1,6 @@
 ## About
 
-Very barebones games made with p5.js inspired by Eloquent Javascript. I chose to use a library instead of vanilla Javascript, why re-invet the wheel?
+Very barebones games made with p5.js inspired by Eloquent Javascript. I chose to use a library instead of vanilla Javascript, why re-invent the wheel?
 
 
 ## Play the game 
